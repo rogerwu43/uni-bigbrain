@@ -1,0 +1,143 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResultsTable renders correctly with a data prop containing 3 results 1`] = `
+Array [
+  <h3
+    className="sc-furvIG fYDXIl"
+  >
+    Top 
+    3
+     Players
+  </h3>,
+  <table
+    className="sc-ksdxAp jcxmhI"
+  >
+    <thead>
+      <tr>
+        <td>
+          <b>
+            Name
+          </b>
+        </td>
+        <td>
+          <b>
+            Points
+          </b>
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          Player 1
+        </td>
+        <td>
+          100
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Player 2
+        </td>
+        <td>
+          200
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Player 3
+        </td>
+        <td>
+          300
+        </td>
+      </tr>
+    </tbody>
+  </table>,
+  <p
+    className="sc-pVTma qUvEQ"
+  >
+    Points are calculated by Base_Points x Time_Left^1.5
+    <br />
+    (points are worth more the sooner answers are picked)
+  </p>,
+]
+`;
+
+exports[`ResultsTable renders correctly with a data prop containing 5 results 1`] = `
+Array [
+  <h3
+    className="sc-furvIG fYDXIl"
+  >
+    Top 
+    5
+     Players
+  </h3>,
+  <table
+    className="sc-ksdxAp jcxmhI"
+  >
+    <thead>
+      <tr>
+        <td>
+          <b>
+            Name
+          </b>
+        </td>
+        <td>
+          <b>
+            Points
+          </b>
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          Player 1
+        </td>
+        <td>
+          100
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Player 2
+        </td>
+        <td>
+          200
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Player 3
+        </td>
+        <td>
+          300
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Player 4
+        </td>
+        <td>
+          400
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Player 5
+        </td>
+        <td>
+          500
+        </td>
+      </tr>
+    </tbody>
+  </table>,
+  <p
+    className="sc-pVTma qUvEQ"
+  >
+    Points are calculated by Base_Points x Time_Left^1.5
+    <br />
+    (points are worth more the sooner answers are picked)
+  </p>,
+]
+`;

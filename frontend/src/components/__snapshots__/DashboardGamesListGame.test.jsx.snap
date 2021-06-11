@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DashboardGamesListGame renders with minimal props (snapshot 1`] = `
+<div
+  className="sc-bdvvaa wuBVN"
+>
+  <div
+    className="sc-dkPtyc yyxDx"
+  >
+    <div
+      className="sc-jRQAMF sc-gKckTs jYYhuy jdZQTX"
+    />
+    <div
+      className="sc-gsDJrp gnaghU"
+    >
+      <div
+        className="sc-iCfLBT dwihOV"
+      >
+        <p
+          className="dashboard-game-title"
+        />
+      </div>
+      <div
+        className="sc-eCImvq fpIaBI"
+      >
+        <p>
+          <b>
+            Questions:
+          </b>
+           
+          0
+        </p>
+        <p>
+          <b>
+            Total Time:
+          </b>
+           
+          0
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-hKwCoD doMlYY"
+  >
+    <button
+      className="sc-kDThTU sc-bkkfTU gTtWsO jZCHVE"
+      onClick={[Function]}
+      type="button"
+    >
+      Start Game
+    </button>
+    <button
+      className="sc-kDThTU sc-fotPbf gTtWsO vSZrP dashboard-game-edit"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        className="fas fa-pen"
+      />
+      Edit
+    </button>
+    <button
+      className="sc-kDThTU sc-dJjZJu gTtWsO iafAsW"
+      onClick={[Function]}
+      type="button"
+    >
+      <i
+        className="far fa-trash-alt"
+      />
+      Delete
+    </button>
+    <button
+      className="sc-kDThTU sc-ieebsP gTtWsO eQDaBh"
+      onClick={[Function]}
+      type="button"
+    >
+      Past results
+    </button>
+  </div>
+  <div
+    className="sc-fKVsgm fMMrwf"
+  >
+    <div>
+      <div
+        className="sc-hGPAah dwWXcx"
+      >
+        <div
+          className="sc-bBHwJV bCrJAf"
+          onClick={[Function]}
+        >
+          x
+        </div>
+        <h2
+          className="sc-bqiQRQ ePZAFp"
+        >
+          Past Results
+        </h2>
+        <div
+          className="sc-dlVyqM sc-iwjezw dA-Dchv aLyYo"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="sc-fKVsgm fMMrwf"
+  >
+    <div
+      className="sc-hGPAah dwWXcx"
+    >
+      <div
+        className="sc-dlVyqM dA-Dchv"
+      >
+        <p>
+          Would you like to view the results for the quiz?
+        </p>
+        <br />
+        <button
+          className="sc-kDThTU sc-bkkfTU gTtWsO jZCHVE"
+          onClick={[Function]}
+        >
+          Yes
+        </button>
+        <button
+          className="sc-kDThTU sc-dJjZJu gTtWsO iafAsW"
+          onClick={[Function]}
+        >
+          No
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

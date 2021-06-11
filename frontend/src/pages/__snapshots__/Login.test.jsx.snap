@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginPage renders correctly 1`] = `
+<div
+  className="sc-gKckTs bEJIwQ"
+>
+  <h1
+    className="sc-jRQAMF bvjNxK"
+  >
+    Login Page
+  </h1>
+  <form
+    className="sc-hBURRC iZnxPK"
+    onSubmit={[Function]}
+  >
+    <div
+      className="sc-bqiQRQ htmXjJ"
+    >
+      <label>
+        Email 
+      </label>
+      <br />
+      <input
+        className="email-input"
+        onChange={[Function]}
+        type="text"
+      />
+    </div>
+    <div
+      className="sc-bqiQRQ htmXjJ"
+    >
+      <label>
+        Password 
+      </label>
+      <br />
+      <input
+        className="password-input"
+        onChange={[Function]}
+        type="password"
+      />
+    </div>
+    <button
+      type="submit"
+    >
+      Log In
+    </button>
+    <br />
+    <a
+      className="sc-eCImvq cowwuE"
+      href="/register"
+      onClick={[Function]}
+    >
+      Register instead.
+    </a>
+  </form>
+</div>
+`;

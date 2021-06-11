@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlayQuestion renders correctly with a non empty answersData data prop 1`] = `
+<div>
+  <h2
+    className="sc-iCfLBT sc-hBURRC ceJMkD hvAwKI"
+  >
+    Cats or dogs
+  </h2>
+  <div
+    className="sc-gsDJrp ilyblg"
+  />
+  <div
+    className="sc-fotPbf iWEGGv"
+  />
+  <h3
+    className="sc-furvIG fYDXIl"
+  >
+    Select 1 Answer
+  </h3>
+  <div
+    className="sc-gsDJrp ilyblg"
+  />
+  <div
+    className="sc-dJjZJu hsVINA"
+  >
+    Time Out!
+  </div>
+  <div>
+    <p>
+      <b>
+        cats
+      </b>
+       was correct.
+    </p>
+  </div>
+  <div>
+    <p>
+      <b>
+        dogs
+      </b>
+       was not correct.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`PlayQuestion renders correctly with an empty answersData data prop 1`] = `
+<div>
+  <h2
+    className="sc-iCfLBT sc-hBURRC ceJMkD hvAwKI"
+  >
+    Cats or dogs
+  </h2>
+  <div
+    className="sc-gsDJrp ilyblg"
+  />
+  <div
+    className="sc-fotPbf iWEGGv"
+  />
+  <h3
+    className="sc-furvIG fYDXIl"
+  >
+    Select 1 Answer
+  </h3>
+  <div
+    className="sc-gsDJrp ilyblg"
+  />
+  <div
+    className="sc-dJjZJu hsVINA"
+  >
+    Time Out!
+  </div>
+  <div
+    className="sc-bqiQRQ bBMoAN"
+  >
+    <p>
+      cats
+    </p>
+    <button
+      className="sc-hKwCoD sc-crHlIS sc-fFehDp jfCzao kSklOu hAgGAw"
+      onClick={[Function]}
+    >
+      Not Selected
+    </button>
+  </div>
+  <div
+    className="sc-bqiQRQ bBMoAN"
+  >
+    <p>
+      dogs
+    </p>
+    <button
+      className="sc-hKwCoD sc-crHlIS sc-fFehDp jfCzao kSklOu hAgGAw"
+      onClick={[Function]}
+    >
+      Not Selected
+    </button>
+  </div>
+</div>
+`;

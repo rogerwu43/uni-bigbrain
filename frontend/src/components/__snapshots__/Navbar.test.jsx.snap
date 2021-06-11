@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar renders correctly with a token (snapshot) 1`] = `
+<div
+  className="sc-bqiQRQ geTHjD"
+>
+  <p
+    className="sc-ksdxAp buDMmm"
+    onClick={[Function]}
+  >
+    BigBrain 
+    <i
+      className="fas fa-brain"
+    />
+  </p>
+  <div>
+    <button
+      className="sc-hKwCoD jfCzao"
+      onClick={[Function]}
+    >
+      Logout
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Navbar renders correctly with no token (snapshot) 1`] = `
+<div
+  className="sc-bqiQRQ geTHjD"
+>
+  <p
+    className="sc-ksdxAp buDMmm"
+    onClick={[Function]}
+  >
+    BigBrain 
+    <i
+      className="fas fa-brain"
+    />
+  </p>
+  <div>
+    <button
+      className="sc-hKwCoD jfCzao"
+      onClick={[Function]}
+    >
+      Login
+    </button>
+  </div>
+</div>
+`;

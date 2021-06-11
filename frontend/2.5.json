@@ -1,0 +1,73 @@
+{
+  "name": "Imported Game",
+  "questions": [
+    {
+      "answers": [
+        {
+          "answer": "Cats.",
+          "id": 1,
+          "isCorrect": true
+        },
+        {
+          "answer": "Dogs.",
+          "id": 2,
+          "isCorrect": false
+        }
+      ],
+      "id": 1,
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAABIAAAASABGyWs+AAAK70lEQVRo3uWaXYxcZR3GfzNnzpnvndmd/e522W5paYGWwg0YMWq4MEQNRCUkRo2YeIGYkJCIiVdKxMQbiYLREIzhxgS9EIRQKARBTZHPFvnqB+22lLbb7XZ3dud75swcL57/2+42vSUknXOxs+e8H+ec/3Oe5//xvrEoigB44LF9DwL88ef3/wygFJwAoN3qAlBvVAHohC0AYrEYAN2u2mNonjDsANDrRev66S/YKfF4HAB3f9fPjYvHde4nfACCZFLP025bewKA4vCmCsDzrzy7E2BysnSMNUecy/xIuH/mPjx0NUAmOqeGuCzW6NbVQYbFS3jrzg0AoAdcsNgFpGL26627ccyuO+QuPjxPj5bwNM73g3XX3bjqyuk8wK8efOghgEd+/8tvsOYJL3sEY+VqWAC47Vs/fQNg4YNntwBgFq5WKzJHr2NDunYeXTSVzntdIeks7BkC5yE1yN11x0HHSYdQr9db188Nj8Xi6+bxffVfqui5nnjqyVsBbr75uuegDxBMnJpfmgI4e+L9qbUW6pgaJjydxzxxMh6TZTMJXW921K/TM06JKo6iRIaE46BD1vd9u76ei57dr9tzX0TXrmu8U213dEKdBzGp66OPPHY/wE03/fYl6AcE39h35CaA1XNnUgApT4gYJcikswD0IlnKj8uyUwMZAM5W5B/rhqBnSDgEQ4eATei4lDD/1jMuhfYlBKaW57lpX1TYtS/KVLzRaFg/zRckxcWjH72/E6Beb+WgHxBs1NsZWaQZA4i8JgBD+Zw6mKo1ezYirn/ySVlytan2yBAMDKmWcc8h1AlDAJKBkHPIttpCptuxCCUyFbZ54t56v3v+wS2Sicz/uubKymIOYH7+9AT0A4JRIg1AK5SlTASJW5BTawjRrnHPd7FPz2LQjtqzfgqAlLVHLVm21lQkVKnWdJ5QB8+41mxrPA7RpmweBFJth7SfcJGMZ7/xddd7huRKuZwEeO/dQzfqPS7zI5HJ56sAkSe19GKyeNKTZcoWyfQQh7IZIdAyy2dN1TIp/Y4UxN1zFc1TCHQ+3xPHztY0rtLSr+Oo85dtk9mO+cHIuBsG+vXtS4n3zK8agmFH7Q374srLtT7h4I07p/YCDBTHqwDFbicHMJgtALBUWQYuWNpRMG6WHi7IH6YNydmJUQA2DEsdV6ryk0NGzpPLqwAcW9C8y61w3Xxdu0+7rbwzZ37YD4yDvlMJQ9rUt9WSXwxS6RBgx44te6EfEJwYy50GGBwdWwTIrq7mAArmB0cbeQDCUJbLeOJKKin1zaV13TdVC81flgaHdN1kdyAj7pQsAirlNP7waeWfp6oWmVg24iKf84hZROOyDBerVmur9irmh30/BpDOpFahHxAcSLEKMD4+cgbg8Ed7ZwDatSUAMoEsNjkoTnbaUlWnksv22zLOHJ8vA1DKC6mcqevMxDAAw9MbdD4qhKdHBgHYvf8wAPOGpItkug4xi3Dikcvo9QIugur2xOVer+kB1GvNIvQDgu6fyampeYD5bBEAzzeVMxWcGBIXXSSzUFZkEtiFXFqcGsoL6QFTzVgkNa03hPRgTkgWUuJWPq2I5bip6sLBj4E1WUYolfQtsnHHmK/27VNS7b1z8wBcu+uGQwDbr7lyH/QTgp//4o3/BHj1ySdugwt5X3GopA72re+6cjMAZxdPAXB8YRGAo6dkwc4GIWkJPxuHxMUhU03fxf2u5mLcchFQ2rKNmmXqXsLqphbRTBQ0z5a8bpA09Sxm9IXd+d3vPQ6Qz2eWoJ8Q3HHNxv0AY+NSuaG2uGduhSuGB2S5canedNFi0KS4FEeWHynI382MSSWnRmRZh4zL+2rGSefPUr7myxqXG5Z9uJQ9shrRAPq9YXYWgOUVqe5wI9cAuOPOr/9p7Qv2D4KuMDkzIguOt4VErS0LbpoQF630QTqjGPHamWkNtwgmFlP/Ulq2yxpygUU6tbY6ugy/bci4/DLpWW3HuDVsKjtg9x0OdD1teeWBqsaPTG89DFAcyJXXvmD/IBgzNRszU21PFwGYLxsiRSEWjylicdWzjHFn84Q417FYspgX9wKzdKMprlSsGtZ29VSX71nmHjck8+YnNwzqvptMPbdOjtoD676vH1sA4Jv3/mAPgO/HW2tfsH8QjMejOIDXU0a8smoqFpMfK+QMwY4QalbVb978YNcQHRiwiMdqJ6EhWmvJsA1b33NVMFdJT1jWkDPkhovi3s6NQuz6Gal70vo/99ZBAA4sljXeM7JfdPQPgonAqwOcWDZLN1cAGJ8oAhC25LfSruKdFaJh+zQAB04okpnerEjH84V812ovdcu43VqDW01yS7/ZQI8yO6r7RdbQbhilIp0fnFf++MKBo5rPKuSzsxsPX+oF+wfBbdOD7wD0hqfmAM68++YmgGpXFmtYdS0wFe12rcpmM2SHFOF8cFTZQLUplRy0DvFI/d3agsvYXWU7YeeDpr7lupD/zyHN99KHx4ALVbmOkXi4KP+89aqZfZd6wf5BMBeoIPql27/2Z4Cn/7f7AYBzy0LuyKIsX/RVA9k6pbxupCQLRi2p4yfnxN0jp8XNmVEhm7W8MZ207MCyiZoh0jK1DS02LTeEbBTI/51aVIWhYfXPXEqR1rZt184BXH31lrcv9YL9g6A7vnPHFx4CeP3pW74PcPBfT80CZAvyQ1eMTQDgvM7Js+Joxfxi2/I4h9DyihBvpWXxdMfWBV1W0bS6pqnmSks2X2lonmxS/d1Kc6KrfqHFyFdu2X4QIAgSzUu9YP8h2Gl3kwCp6Z3vAESJl2cBkrbCu7pqqpdU7WUwqzwx5ctPjhR1fqYsLi7XFBFVTS09Z1KLOd1KbjumR1moWyYfU/+UrUOej3wME7df55l//PXLAHf/MPwLwI/uuft3ADt2bf0v9AGCMWfBQycrVwF85fZ7XwZYOvDKOMBOq1ptKQiZibS4lUu53RGaKJ6wGotVAJasXvrxomLVWlvq59bUE1a0cdttVpqu/qkLYznFok1bRXprTjWg+nnuNtbdv2fZ0IaxLSHAj++77zfQDwjufvXoVwF+8cDDvwbYv+fxawCChCKWyeFxALaPSUXDqhBJWQq/weqlIyXFnr5xw6nj4qpqO5Wm5msbZJWG2pfND2IxZSmjbKKUFYJOVY8el1/duFHPk56cAeDfr70KQHW1DEAuo+eIYraO+Flb+NM+YqMzt0QA4fIRXejp22405L9KBanlrbuuB2DAYtEgIU4VzOL5lBBwanduRcg1jHtLdY2bW5DfPFtWe9wy/kHLI0ez5vfM9DUr2aSXNK5q6uxf9zkAsiOTAOx56Tn1r2neTEER1GWPYCLZVLTu+fI/oe22cDuRqnVZpNYUVzaWlAfmfSGTSpqaOu5Z/lY1zp20jHvujGLJsrW71aNiSlwbtFWolNVZGxbbpiL9bo70ZYWiFnsOfABA66TU9b57fgLAi6+8CMBr+98E+gHBbmiZtqtPWkzoBzJVsy4uvv3RITW39M0XkhYbxoRkzTL3M1bLOWe/q6aS4UX7O4ds/XC0KO7lDMmeVdkic3Al2yOesvm7Rs4rprcCMLH1BgCe2f08AJs3q06beE/p4eWPYM+tjLo9YtYQs51Dbtf7sUXVHzu2c2nI1tzd/s22Lc43LMbEMn7HtbRlBeMlqduoRSpu36mLYDr2PHn7ooYrK/Y8av/EIpuRmW0A3PXtuwD4w6MPA/D3Z/4GQDxhe8U/awt/2sf/AQ4PLugrt6dlAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE0LTEyLTExVDEyOjUwOjAwLTA4OjAwgSyYJwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNC0xMi0xMVQxMjo1MDowMC0wODowMPBxIJsAAABHdEVYdHNvZnR3YXJlAEltYWdlTWFnaWNrIDYuOC4zLTEwIDIwMTMtMDMtMjAgUTE2IGh0dHA6Ly93d3cuaW1hZ2VtYWdpY2sub3Jn/9Hn7wAAABh0RVh0VGh1bWI6OkRvY3VtZW50OjpQYWdlcwAxp/+7LwAAABd0RVh0VGh1bWI6OkltYWdlOjpoZWlnaHQAMjhTy6IIAAAAFnRFWHRUaHVtYjo6SW1hZ2U6OldpZHRoADI4KZXgJgAAABl0RVh0VGh1bWI6Ok1pbWV0eXBlAGltYWdlL3BuZz+yVk4AAAAXdEVYdFRodW1iOjpNVGltZQAxMzc3NzIzNTc1y2phLgAAABN0RVh0VGh1bWI6OlNpemUAMi4yNEtCQrArXhsAAAA+dEVYdFRodW1iOjpVUkkAZmlsZTovLy90bXAvbWluaV9tYWdpY2syMDEzMDgyOC0zMDQzMC0xNHFvdzE1LTAucG5nCztTwwAAAABJRU5ErkJggg==",
+      "points": 1,
+      "question": "Dogs or cats?",
+      "timeLimit": 60,
+      "type": "Single",
+      "video": "https://www.youtube.com/embed/kxULeLzgqxI"
+    },
+    {
+      "answers": [
+        {
+          "answer": "Cats.",
+          "id": 1,
+          "isCorrect": true
+        },
+        {
+          "answer": "Dogs.",
+          "id": 2,
+          "isCorrect": true
+        }
+      ],
+      "id": 2,
+      "image": "",
+      "points": 3,
+      "question": "Dogs or cats?",
+      "timeLimit": 60,
+      "type": "Multiple",
+      "video": ""
+    },
+    {
+      "answers": [
+        {
+          "answer": "Cats.",
+          "id": 1,
+          "isCorrect": true
+        },
+        {
+          "answer": "Dogs.",
+          "id": 2,
+          "isCorrect": true
+        },
+        {
+          "answer": "Yaks!",
+          "id": 3,
+          "isCorrect": true
+        }
+      ],
+      "id": 3,
+      "image": "",
+      "points": 5,
+      "question": "Dogs or cats or yaks?",
+      "timeLimit": 240,
+      "type": "Multiple",
+      "video": "https://www.youtube.com/embed/M7l7joQhmYE"
+    }
+  ]
+}

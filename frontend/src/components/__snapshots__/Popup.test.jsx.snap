@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Popup renders with custom text (snapshot) 1`] = `
+<div
+  className="sc-hKwCoD gqnsJx"
+>
+  <div>
+    <div
+      className="sc-bdvvaa jcuZkM"
+    >
+      <div
+        className="sc-gsDJrp flQMAA"
+      >
+        <p>
+          A custom message
+        </p>
+        <button
+          className="sc-furvIG sc-bqiQRQ kGJSNV gwxRFW"
+          onClick={[Function]}
+        >
+          OK
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Popup renders with minimal props (snapshot) 1`] = `
+<div
+  className="sc-hKwCoD gqnsJx"
+>
+  <div>
+    <div
+      className="sc-bdvvaa jcuZkM"
+    >
+      <div
+        className="sc-gsDJrp flQMAA"
+      >
+        <p />
+        <button
+          className="sc-furvIG sc-bqiQRQ kGJSNV gwxRFW"
+          onClick={[Function]}
+        >
+          OK
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
