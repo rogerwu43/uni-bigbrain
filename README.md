@@ -1,3 +1,6 @@
+# Bigbrain
+A project I worked on during uni as a pair. It's a quiz site where admins can create accounts, make games and host those games. Players can join and play in an active game using a game ID. CSS was not a focus, functionality mainly.
+
 ## Setting up the frontend
 Navigate to the `frontend` folder and run `yarn install` to install all of the dependencies necessary to run the ReactJS app.
 
